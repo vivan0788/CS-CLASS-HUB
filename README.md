@@ -90,8 +90,8 @@ No npm install or local server build steps are required.
 
 Clone or Download the repository:
 
-git clone https://github.com/your-username/cr-student-portal.git
-cd cr-student-portal
+git clone https://github.com/vivan0788/cs-class-hub.git
+cd cs-class-hub
 
 
 Open the project:
