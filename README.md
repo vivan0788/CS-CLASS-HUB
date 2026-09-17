@@ -123,7 +123,7 @@ Go to Netlify Drop.
 
 Drag and drop the folder containing your index.html.
 
-Netlify will instantly provide you with a live URL (e.g., https://cr-class-hub.netlify.app).
+Netlify will instantly provide you with a live URL (e.g., https://cs-class-hub.vercel.app/).
 
 ☁️ Setting Up Google Firebase (Optional)
 
