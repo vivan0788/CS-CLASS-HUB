@@ -82,7 +82,7 @@ None required
 
 Read-only browsing, downloads, and bookmarks
 
-Note to CR: To change your password, search for crPassword: 'Avinash0788' inside the <script> tag in index.html and update it with your desired string.
+Note to CR: To change your password, search for crPassword: '*******0788' inside the <script> tag in index.html and update it with your desired string.
 
 ⚡ Quick Start / Local Setup
 
@@ -115,7 +115,7 @@ Go to Repository Settings > Pages.
 Under Branch, select main and root /, then click Save.
 
 Your website will be live in 1-2 minutes at:
-https://<your-github-username>.github.io/cr-class-hub/
+https://vivan0788.github.io/cs-class-hub/
 
 Option 2: Netlify / Vercel (Drag & Drop)
 
